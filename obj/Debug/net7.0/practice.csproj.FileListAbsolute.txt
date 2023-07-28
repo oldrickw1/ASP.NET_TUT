@@ -1,0 +1,15 @@
+C:\SoftwareProjects\Sandbox\C#\practice\bin\Debug\net7.0\practice.exe
+C:\SoftwareProjects\Sandbox\C#\practice\bin\Debug\net7.0\practice.deps.json
+C:\SoftwareProjects\Sandbox\C#\practice\bin\Debug\net7.0\practice.runtimeconfig.json
+C:\SoftwareProjects\Sandbox\C#\practice\bin\Debug\net7.0\practice.dll
+C:\SoftwareProjects\Sandbox\C#\practice\bin\Debug\net7.0\practice.pdb
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\practice.csproj.AssemblyReference.cache
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\practice.AssemblyInfoInputs.cache
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\practice.AssemblyInfo.cs
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\practice.csproj.CoreCompileInputs.cache
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\practice.dll
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\refint\practice.dll
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\practice.pdb
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\practice.genruntimeconfig.cache
+C:\SoftwareProjects\Sandbox\C#\practice\obj\Debug\net7.0\ref\practice.dll
